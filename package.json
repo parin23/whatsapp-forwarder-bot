@@ -1,6 +1,5 @@
 {
   "dependencies": {
     "@open-wa/wa-automate": "^3.9.1",
-    "p-queue": "^6.6.2"
   }
 }
